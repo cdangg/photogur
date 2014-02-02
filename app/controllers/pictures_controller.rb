@@ -1,11 +1,18 @@
 class PicturesController < ApplicationController
 	def index
+		@pictures = Picture.all
 		@most_recent_pictures = Picture.most_recent_five
+		@old_pictures = Picture.created_before(2.days.ago)
 
 	end
 
 	def show
 		@picture = Picture.find(params[:id])
+
+	end
+
+	def more
+		@picture = Picture.all
 
 	end
 	def new
