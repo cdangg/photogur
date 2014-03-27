@@ -6,8 +6,12 @@ User Stories
 
 As a user...
 
-...on the homepage I am presented with a button to make a new photo and an album of all the photos on the website. a. Each photo has its title and its author below it.<br/>
-...if I click the button to make a new photo I am taken to a page with a form that has three fields–title, author, and URL–and a submit button. a. Upon filling in the fields and clicking submit, I am redirected to the homepage and my new photo appears.<br/>
-...back on the homepage, if I click on a photo I am taken to a page presenting only that photo, along with its title and author, two buttons to Edit or Delete the photo, and a link to go back to the homepage.<br/>
-...if I click the edit button, I am taken to a page with a form that has the same three fields, except this time the fields are filled in with the information of the photo already, and after editing the information I can click a button to update the information of the photo. a. Upon clicking the update button I am redirected to the page for that photo.<br/>
-...if, however, I click on the delete button, I am redirected to the home page and the photo cannot be found.<br/>
+...on the homepage I am presented with a button to make a new photo and an album of all the photos on the website. a. Each photo has its title and its author below it.
+
+...if I click the button to make a new photo I am taken to a page with a form that has three fields–title, author, and URL–and a submit button. a. Upon filling in the fields and clicking submit, I am redirected to the homepage and my new photo appears.
+
+...back on the homepage, if I click on a photo I am taken to a page presenting only that photo, along with its title and author, two buttons to Edit or Delete the photo, and a link to go back to the homepage.
+
+...if I click the edit button, I am taken to a page with a form that has the same three fields, except this time the fields are filled in with the information of the photo already, and after editing the information I can click a button to update the information of the photo. a. Upon clicking the update button I am redirected to the page for that photo.
+
+...if, however, I click on the delete button, I am redirected to the home page and the photo cannot be found.
